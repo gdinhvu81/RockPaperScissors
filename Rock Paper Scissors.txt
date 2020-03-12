@@ -1,0 +1,35 @@
+Rock Paper Scissors
+
+- Two players will choose between three options
+- Player 1 will have three options
+    -Rock 
+    -Paper
+    -Scissors
+- Player 2 will have three options
+    -Rock 
+    -Paper
+    -Scissors
+
+-if player 1 chooses rock and player 2 chooses rock
+    -Result is a tie
+    -Both players must choose again
+-if player 1 chooses rock and player 2 chooses Scissors
+    -Result is player 1 wins
+-if player 1 chooses rock and player 2 chooses Paper
+    - Result is player 2 wins
+
+-if player 1 chooses paper and player 2 chooses rock
+    - Result is player 1 wins
+-if player 1 chooses paper and player 2 chooses paper
+    - Result is a tie
+    - Both players must choose again
+- if player 1 chooses paper and player 2 chooses Scissors
+    -Result is player 2 wins
+
+-if player 1 chooses scissors and player 2 chooses rock
+    -Result is player 2 wins
+-if player 1 chooses scissors and player 2 chooses paper
+    -Result is player 1 wins
+-if player 1 chooses scissors and player 2 chooses scissors
+    -Result is tie
+    -Both players choose again
